@@ -10,7 +10,7 @@ public class test {
 			LogManager.getLogger(HelloLog4j.class .getName());
 	
 	public static void main(String arg[]){
-		System.out.println("t");
+		System.out.println("test");
 		
 		log4j.trace("This is a trace message."); 
 		log4j.debug("This is  a debug message."); 
